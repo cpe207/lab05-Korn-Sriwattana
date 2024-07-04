@@ -45,3 +45,6 @@ console.log(buyItem(hero1, shop1));
 console.log(buyItem(hero2, shop2));
 
 module.exports = buyItem;
+
+//กรณ์ ศรีวัฒนะ
+//รหัส: 660610738

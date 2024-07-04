@@ -20,3 +20,6 @@ const students1 = [
 console.log(findTopNames(students1));
 
 module.exports = findTopNames;
+
+//กรณ์ ศรีวัฒนะ
+//รหัส: 660610738
